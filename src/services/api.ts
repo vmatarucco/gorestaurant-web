@@ -5,3 +5,5 @@ const api = axios.create({
 });
 
 export default api;
+
+// yarn json-server server.json -p 3333
